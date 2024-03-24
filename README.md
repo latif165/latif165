@@ -59,6 +59,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=latif165&layout=compact&theme=vision-friendly-dark)](#)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=latif165&theme=dark&background=000000)]
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=latif165&theme=dark&background=000000)](#)
 
-![Latif's GitHub stats](https://github-readme-stats.vercel.app/api?username=latif165&show_icons=true&theme=radical)
+[![Latif's GitHub stats](https://github-readme-stats.vercel.app/api?username=latif165&show_icons=true&theme=radical)](#)
